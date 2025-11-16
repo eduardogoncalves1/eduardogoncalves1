@@ -27,12 +27,5 @@
 
 ---
 
-## 📫 Connect with me
-
-[![LinkedIn](![Eduardo — Web Developer | ADS](https://your-banner-link.com/banner.png)
-
-
-[![LinkedIn](www.linkedin.com/in/eduardo-gonçalves-266659366)
-
 
 
