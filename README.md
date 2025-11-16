@@ -22,8 +22,9 @@
 
 ## 📊 GitHub Stats
 
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dark)
+![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardodev&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodev&layout=compact&theme=dark)
+
 
 ---
 
