@@ -1,12 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hello+World,+Welcome+to+My+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=800&lines=Hello+World+👋,+Welcome+to+My+Profile+💻" alt="Typing SVG" />
 </h1>
-
-<p align="center"> 
-  💻 Web Developer | 🎓 ADS Student (Systems Analysis and Development)<br> 
-  🧠 Passionate about building clean, responsive web apps<br> 
-  📈 Exploring Digital Marketing & ADS strategies 
-</p>
 
 ---
 
@@ -25,7 +19,7 @@ Hi 👋, I'm Eduardo! A Brazilian student passionate about **Web Development, So
 
 <p align="center">
   <a href="https://eduardodesenvolvedor.netlify.app/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=400&lines=🌐+Visit+My+Portfolio" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=450&lines=🌐+Visit+My+Portfolio" alt="Typing SVG" />
   </a>
 </p>
 
@@ -72,4 +66,3 @@ Hi 👋, I'm Eduardo! A Brazilian student passionate about **Web Development, So
 </p>
 
 ---
-
