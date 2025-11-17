@@ -11,14 +11,14 @@
 </p>
 
 ---
+## 🟢 Tech Stack
 
-## 🧰 Tech Stack
+![Python](https://img.shields.io/badge/Python-00FF7F?style=for-the-badge&logo=python&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-00FF7F?style=for-the-badge&logo=html5&logoColor=black)  
+![CSS3](https://img.shields.io/badge/CSS3-00FF7F?style=for-the-badge&logo=css3&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/JavaScript-00FF7F?style=for-the-badge&logo=javascript&logoColor=black)  
+![Linux](https://img.shields.io/badge/Linux-00FF7F?style=for-the-badge&logo=linux&logoColor=black)  
 
-![Python](https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-39FF14?style=for-the-badge&logo=html5&logoColor=black)  
-![CSS3](https://img.shields.io/badge/CSS3-39FF14?style=for-the-badge&logo=css3&logoColor=black)  
-![JavaScript](https://img.shields.io/badge/JavaScript-39FF14?style=for-the-badge&logo=javascript&logoColor=black)  
-![Linux](https://img.shields.io/badge/Linux-39FF14?style=for-the-badge&logo=linux&logoColor=black)  
 
 ---
 
