@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=800&lines=Eduardo+Gonçalves;Systems+Analyst+|+Full-Stack+Developer;Advanced+English+|+SQL+|+Cybersecurity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=800&lines=Hello,+World!+👋;Welcome+to+my+profile!" alt="Typing SVG" />
 </h1>
 
 ---
@@ -10,7 +10,6 @@ Hi 👋, I'm **Eduardo Gonçalves**! A Brazilian **Systems Analyst & Full-Stack 
 
 * 🌱 **Currently:** Pursuing my degree in **Systems Analysis and Development (ADS)** and deepening my expertise in Full-Stack architecture.
 * 🚀 **Technical Focus:** Passionate about **Software Engineering, Database Management (SQL), and Cybersecurity**.
-* 🇬🇧 **Global Ready:** **Advanced English** speaker, comfortable with technical documentation and international collaboration.
 * 💡 **Strategic Vision:** My background in marketing and strategy gives me a unique perspective on **business requirements and user-centric development**.
 * ⚡ **Outside of coding:** I'm exploring robotics and gaming, which keep my creative problem-solving skills sharp.
 
