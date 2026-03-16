@@ -15,6 +15,16 @@ Hi 👋, I'm **Eduardo Gonçalves**! A Brazilian **Systems Analyst & Developer**
 
 ---
 
+## 🚀 Portfolio
+
+<p align="center">
+  <a href="https://eduardogoncalvestech.netlify.app/" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=🌐+Click+here+to+visit+my+Portfolio!" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
 ## 🔥 Skills
 
 ### 💻 Programming & Databases
@@ -23,6 +33,13 @@ Hi 👋, I'm **Eduardo Gonçalves**! A Brazilian **Systems Analyst & Developer**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL/SQL"/>
+</p>
+
+### 🛠️ Frameworks & Libraries
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>
 </p>
 
 ### 🖥️ OS & Infrastructure
@@ -38,10 +55,10 @@ Hi 👋, I'm **Eduardo Gonçalves**! A Brazilian **Systems Analyst & Developer**
 ## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardogoncalves1&show_icons=true&theme=neon&border_color=39FF14&title_color=39FF14&icon_color=39FF14" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogoncalves1&layout=compact&theme=neon&border_color=39FF14&title_color=39FF14" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardogoncalvestech&show_icons=true&theme=neon&border_color=39FF14&title_color=39FF14&icon_color=39FF14" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogoncalvestech&layout=compact&theme=neon&border_color=39FF14&title_color=39FF14" height="150" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardogoncalves1&theme=tokyonight&fire=39FF14&sideLabels=39FF14&ring=39FF14" height="150" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardogoncalvestech&theme=tokyonight&fire=39FF14&sideLabels=39FF14&ring=39FF14" height="150" alt="GitHub Streak"/>
 </p>
