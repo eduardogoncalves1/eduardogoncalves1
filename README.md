@@ -18,7 +18,7 @@ Hi 👋, I'm **Eduardo Gonçalves**! A Brazilian **Systems Analyst & Full-Stack 
 ## 🚀 Portfolio
 
 <p align="center">
-  <a href="https://eduardodesenvolvedor.netlify.app/" target="_blank">
+  <a href="https://eduardogoncalvestech.netlify.app/" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=🌐+Click+here+to+visit+my+Portfolio!" alt="Typing SVG" />
   </a>
 </p>
