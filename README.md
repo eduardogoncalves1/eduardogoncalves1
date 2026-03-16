@@ -62,16 +62,12 @@ Hi 👋, I'm **Eduardo Gonçalves**! A Brazilian **Systems Analyst & Developer**
 
 ---
 
----
-
----
-
 ## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardogoncalvestech&show_icons=true&theme=matrix&hide=stars,issues&border_radius=10&border_color=39FF14&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&ring_color=39FF14" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardogoncalvestech&show_icons=true&theme=matrix&hide=stars,issues,prs&border_color=39FF14&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF" height="150" alt="GitHub Stats"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogoncalvestech&layout=compact&theme=matrix&hide_border=false&border_radius=10&border_color=39FF14&title_color=39FF14&text_color=FFFFFF" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogoncalvestech&layout=compact&theme=matrix&border_color=39FF14&title_color=39FF14&text_color=FFFFFF" height="150" alt="Top Languages"/>
 </p>
 
 <p align="center">
