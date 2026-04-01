@@ -15,7 +15,7 @@ Hi 👋, I'm **Eduardo Gonçalves**! A Brazilian **Systems Analyst & Developer**
 
 ---
 
-## 🚀 Portfolio
+## 🚀 Portfólio
 
 <p align="center">
   <a href="https://eduardogoncalvestech.netlify.app/" target="_blank">
