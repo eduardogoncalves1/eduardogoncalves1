@@ -74,5 +74,5 @@ Hi 👋, I'm **Eduardo Gonçalves**! A Brazilian **Systems Analyst & Developer**
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardogoncalvestech&theme=dark&fire=39FF14&ring=39FF14&currStreakLabel=39FF14&stroke=39FF14&currStreakNum=39FF14" width="100%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardogoncalvestech&theme=dark&fire=39FF14&ring=39FF14&currStreakLabel=39FF14&stroke=39FF14&currStreakNum=39FF14" width="70%" alt="GitHub Streak"/>
 </p>
