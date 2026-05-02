@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=2D5A27&center=true&vCenter=true&width=800&lines=Construindo+soluções+inteligentes+com+tecnologia.;Inteligência+de+Software+%7C+Dados+%7C+Infraestrutura" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=2ecc71&center=true&vCenter=true&width=900&lines=Construindo+soluções+inteligentes+com+tecnologia.;Inteligência+de+Software+%7C+Dados+%7C+Infraestrutura" alt="Typing SVG" />
 </h1>
 
 ---
@@ -19,7 +19,7 @@ Olá 👋, eu sou **Eduardo Gonçalves**! Especialista em TI focado na arquitetu
 
 <p align="center">
   <a href="https://eduardogoncalvestech.netlify.app/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2D5A27&center=true&vCenter=true&width=500&lines=Visualizar+Portfólio+Profissional+🌿" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2ecc71&center=true&vCenter=true&width=500&lines=Visualizar+Portfólio+Profissional+🌿" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,8 +27,7 @@ Olá 👋, eu sou **Eduardo Gonçalves**! Especialista em TI focado na arquitetu
 
 ## 🛠️ Stack Técnica
 
-### 💻 Inteligência de Software & Dados
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
@@ -36,10 +35,6 @@ Olá 👋, eu sou **Eduardo Gonçalves**! Especialista em TI focado na arquitetu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js"/>
-</p>
-
-### 🖥️ Infraestrutura & Cloud
-<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40" title="Debian"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
@@ -62,7 +57,7 @@ Olá 👋, eu sou **Eduardo Gonçalves**! Especialista em TI focado na arquitetu
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardogoncalvestech&theme=dark&fire=2D5A27&ring=2D5A27&currStreakLabel=2D5A27&stroke=2D5A27&currStreakNum=2D5A27" width="70%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardogoncalvestech&theme=dark&fire=2ecc71&ring=2ecc71&currStreakLabel=2ecc71&stroke=2ecc71&currStreakNum=2ecc71" width="70%" alt="GitHub Streak"/>
 </p>
 
 ---
