@@ -1,68 +1,56 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=800&lines=Hello,+World!+👋;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=2D5A27&center=true&vCenter=true&width=800&lines=Construindo+soluções+inteligentes+com+tecnologia.;Inteligência+de+Software+%7C+Dados+%7C+Infraestrutura" alt="Typing SVG" />
 </h1>
 
 ---
 
-## 👨‍💻 About Me
+## 🌿 Sobre Mim
 
-Hi 👋, I'm **Eduardo Gonçalves**! A Brazilian **Systems Analyst & Developer** focused on building secure and efficient digital solutions.
+Olá 👋, eu sou **Eduardo Gonçalves**! Especialista em TI focado na arquitetura de sistemas escaláveis e gestão de ecossistemas tecnológicos.
 
-* 🌱 **Currently:** Pursuing my degree in **Systems Analysis and Development (ADS)**.
-* 🚀 **Technical Focus:** Software Engineering, Database Management, and **Linux Environments**.
-* 🛡️ **Cybersecurity:** Google Certified in Cybersecurity, focused on LGPD and data protection.
-* 🐧 **OS Preference:** Power user of **Debian GNU/Linux** for development and stability.
+* 🌱 **Formação:** Graduando em **Análise e Desenvolvimento de Sistemas (ADS)**.
+* 🚀 **Especialização:** Inteligência de Software, Inteligência em Análise de Dados e Infraestrutura.
+* 🛡️ **Segurança:** Foco em proteção de dados e conformidade técnica (LGPD).
+* 🐧 **Ecosystem:** Entusiasta de **Linux (Debian/Ubuntu)** para ambientes de alta estabilidade e performance.
 
 ---
 
-## 🚀 Portfólio
+## 🌐 Portfólio Premium
 
 <p align="center">
   <a href="https://eduardogoncalvestech.netlify.app/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=🌐+Click+here+to+visit+my+Portfolio!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2D5A27&center=true&vCenter=true&width=500&lines=Visualizar+Portfólio+Profissional+🌿" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 🔥 Skills
+## 🛠️ Stack Técnica
 
-### 💻 Programming & Databases
+### 💻 Inteligência de Software & Dados
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="SQL/PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="SQL/MySQL"/>
-</p>
-
-### 🛠️ Frameworks & Libraries
-<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" title="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" title="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
 </p>
 
-### 🖥️ OS & Infrastructure
+### 🖥️ Infraestrutura & Cloud
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40" title="Debian"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40" title="Debian"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" title="Nginx"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" title="Vercel"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Performance & Insights
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardogoncalvestech&theme=github_dark" width="100%" alt="Profile Summary"/>
@@ -74,5 +62,12 @@ Hi 👋, I'm **Eduardo Gonçalves**! A Brazilian **Systems Analyst & Developer**
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardogoncalvestech&theme=dark&fire=39FF14&ring=39FF14&currStreakLabel=39FF14&stroke=39FF14&currStreakNum=39FF14" width="70%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardogoncalvestech&theme=dark&fire=2D5A27&ring=2D5A27&currStreakLabel=2D5A27&stroke=2D5A27&currStreakNum=2D5A27" width="70%" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">
+  <b>Disponível para colaborações em Inteligência de Software, Dados e Infraestrutura.</b><br>
+  © 2026 Eduardo Gonçalves | Todos os direitos reservados.
 </p>
