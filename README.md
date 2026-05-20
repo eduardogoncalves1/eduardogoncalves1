@@ -6,12 +6,17 @@
 
 ## 👨‍💻 Sobre Mim
 
-Olá 👋, eu sou **Eduardo Gonçalves**! Especialista em TI focado na arquitetura de sistemas escaláveis e gestão de ecossistemas tecnológicos.
+**Desenvolvimento de Sistemas & Análise de Dados**
 
-* 🎓 **Formação:** Graduando em **Análise e Desenvolvimento de Sistemas (ADS)**.
-* 🚀 **Especialização:** Inteligência de Software, Inteligência em Análise de Dados e Infraestrutura.
-* 🛡️ **Segurança:** Foco em proteção de dados e conformidade técnica (LGPD).
-* 🐧 **Ecosystem:** Entusiasta de **Linux (Debian/Ubuntu)** para ambientes de alta estabilidade e performance.
+Olá 👋, sou desenvolvedor focado na construção de sistemas inteligentes e análise estratégica de dados. Meu trabalho consiste em unir engenharia de software e inteligência de dados para criar soluções robustas e funcionais.
+
+**💻 Desenvolvimento:** Foco em arquitetura de sistemas escaláveis e software web.
+
+**📊 Dados:** Inteligência em análise de dados para suporte à decisão.
+
+**🐧 Infraestrutura:** Ambientes Linux (Debian/Ubuntu) para alta estabilidade e performance.
+
+**🎓 Formação:** Graduando em Análise e Desenvolvimento de Sistemas (ADS).
 
 ---
 
