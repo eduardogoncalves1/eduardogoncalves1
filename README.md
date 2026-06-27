@@ -23,7 +23,7 @@ Olá 👋, sou desenvolvedor focado na construção de sistemas inteligentes e a
 ## 🌐 Portfólio
 
 <p align="center">
-  <a href="https://eduardogoncalvestech.netlify.app/" target="_blank">
+  <a href="https://eduardogoncalvestech.com.br/" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2ecc71&center=true&vCenter=true&width=500&lines=Visualizar+Portfólio+Profissional+🚀" alt="Typing SVG" />
   </a>
 </p>
